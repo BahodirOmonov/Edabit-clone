@@ -76,6 +76,8 @@ body {
 	border-radius: 5px;
 	border: 2px solid blue;
 	outline: none;
+	resize: none;
+	word-wrap: normal;
 }
 
 .test {
